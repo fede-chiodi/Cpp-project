@@ -53,9 +53,6 @@ class LinkedList {
         void unique();
 };
 
-#include <iostream>
-#include "linkedList.hpp"
-
 //constructor
 template<typename T>
 LinkedList<T>::LinkedList() : head(nullptr), tail(nullptr) {}
