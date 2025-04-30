@@ -1,0 +1,37 @@
+1;;Mammifero;0
+2;SI;Terrestre;1
+3;SI;Vive in savana;2
+4;SI;Predatore;3
+5;SI;Coda corta;4
+6;SI;Iena;5
+5;NO;Leone;5
+6;NO;Collo lungo;4
+7;SI;Giraffa;6
+6;NO;Zebra;6
+7;NO;Allevato;3
+8;SI;Domestico;7
+9;SI;Felino;8
+10;SI;Gatto;9
+11;NO;Cane;9
+12;NO;Selvatico;8
+13;SI;Cervo;12
+14;NO;Criceto;12
+15;NO;Volpe;7
+16;NO;Grande;2
+17;SI;Carnivoro;16
+18;SI;Squalo;17
+17;NO;Balena;17
+18;NO;Delfino;16
+19;NO;Vola;1
+20;SI;Rapace;19
+21;SI;Aquila;20
+22;NO;Becco appuntito;20
+23;SI;Apertura alare;22
+24;SI;Falco;23
+23;NO;Picchio;23
+22;NO;Petto Rosso;22
+23;SI;Pettirosso;22
+22;NO;Rondine;22
+23;NO;Striscia;19
+24;SI;Serpente;23
+25;NO;Lucertola;23
