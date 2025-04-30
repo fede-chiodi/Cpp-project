@@ -1,4 +1,4 @@
-#include "../BSTree.hpp"
+#include "../BinarySearchTree.hpp" // found that at trees/lib
 #include <fstream>
 #include <sstream>
 #include <iostream>
